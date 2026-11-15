@@ -1,2 +1,0 @@
-# Shopping-Assistant
-Shopping-Assistant
